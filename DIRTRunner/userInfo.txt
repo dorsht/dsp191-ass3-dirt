@@ -1,0 +1,4 @@
+--- YOUR BUCKET ---
+--- YOUR KEYNAME ---
+--- YOUR EMR ROLE ---
+--- YOUR EMR EC2 ROLE ---
